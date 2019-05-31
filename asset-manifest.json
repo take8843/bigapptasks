@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bigapptasks/static/css/main.22f6edab.chunk.css",
-    "main.js": "/bigapptasks/static/js/main.4565d288.chunk.js",
-    "main.js.map": "/bigapptasks/static/js/main.4565d288.chunk.js.map",
+    "main.js": "/bigapptasks/static/js/main.5259cb16.chunk.js",
+    "main.js.map": "/bigapptasks/static/js/main.5259cb16.chunk.js.map",
     "runtime~main.js": "/bigapptasks/static/js/runtime~main.25ced352.js",
     "runtime~main.js.map": "/bigapptasks/static/js/runtime~main.25ced352.js.map",
     "static/js/2.a005faa4.chunk.js": "/bigapptasks/static/js/2.a005faa4.chunk.js",
     "static/js/2.a005faa4.chunk.js.map": "/bigapptasks/static/js/2.a005faa4.chunk.js.map",
     "index.html": "/bigapptasks/index.html",
-    "precache-manifest.6d7d0576f5f5b1d443f604c36b76482d.js": "/bigapptasks/precache-manifest.6d7d0576f5f5b1d443f604c36b76482d.js",
+    "precache-manifest.a34a6a20da75df13e916711bdb51445a.js": "/bigapptasks/precache-manifest.a34a6a20da75df13e916711bdb51445a.js",
     "service-worker.js": "/bigapptasks/service-worker.js",
     "static/css/main.22f6edab.chunk.css.map": "/bigapptasks/static/css/main.22f6edab.chunk.css.map"
   }
